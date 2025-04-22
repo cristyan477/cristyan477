@@ -1,7 +1,10 @@
 ## Bem vindo 🗿
 
-### Meu nome é Cristyan Alves, aqui estará minha experiência no mundo da programação, com foco em front-end. Cursando Bacharelado em Sistemas de Informação 2/8 IFBAIANO.
+### Meu nome é Cristyan Alves, aqui estará minha experiência no mundo da programação, com foco em front-end.
 
+### Cursando Bacharelado em Sistemas de Informação 2/8 IFBAIANO.
+
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cristyan477/cristyan477/output/github-contribution-grid-snake-dark.svg">
