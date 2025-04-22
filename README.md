@@ -4,7 +4,6 @@
 
 ### Cursando Bacharelado em Sistemas de Informação 2/8 IFBAIANO.
 
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cristyan477/cristyan477/output/github-contribution-grid-snake-dark.svg">
@@ -12,6 +11,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
+
+### Estudando:
+<img src="https://skillicons.dev/ícones?i=java,javascript,html,css,react" /><br>
 
 <!--
 **cristyan477/cristyan477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
