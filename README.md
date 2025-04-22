@@ -12,8 +12,7 @@
 </picture>
 <br><br>
 
-### Estudando:
-<img src="https://skillicons.dev/ícons?i=java,javascript,html,css,react" /><br>
+
 
 <!--
 **cristyan477/cristyan477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
