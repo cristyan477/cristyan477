@@ -2,7 +2,7 @@
 
 ### Meu nome é Cristyan Alves, aqui estará minha experiência no mundo da programação, com foco em front-end.
 
-### Cursando Bacharelado em Sistemas de Informação 2/8 IFBAIANO.
+# Cursando Bacharelado em Sistemas de Informação 2/8 IFBAIANO.
 
 
 <picture>
