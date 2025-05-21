@@ -1,6 +1,6 @@
 ## Bem vindo 🗿
 
-### Meu nome é Cristyan Alves, aqui estará minha experiência no mundo da programação, com foco em front-end.
+### Meu nome é Cristyan Alves de Oliveira Almeida,  e aqui esta minha caminhada no mundo da programação, com foco em front-end.
 
 #### Cursando Bacharelado em Sistemas de Informação 2/8 IFBAIANO.
 
