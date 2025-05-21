@@ -1,9 +1,10 @@
-## Bem vindo 🗿
+## Welcome! 🗿
 
-### Meu nome é Cristyan Alves de Oliveira Almeida,  e aqui esta minha caminhada no mundo da programação, com foco em front-end.
+### My name is Cristyan Alves de Oliveira Almeida, and here's my journey into the world of programming, with a focus on front-end.
 
-#### Cursando Bacharelado em Sistemas de Informação 2/8 IFBAIANO.
+#### - Studying for a Bachelor's Degree in Information Systems (Sistemas de Informação) 2/8 IFBAIANO.
 
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cristyan477/cristyan477/output/github-contribution-grid-snake-dark.svg">
@@ -12,19 +13,22 @@
 </picture>
 <br><br>
 
+---
+
+## My Stack:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="HTML5 logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="JavaScript logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="Java logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="C logo" />
+  <img width="8" />
+</div>
 
 
-<!--
-**cristyan477/cristyan477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
