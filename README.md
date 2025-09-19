@@ -2,7 +2,7 @@
 
 ### My name is Cristyan Alves de Oliveira Almeida, and here's my journey into the world of programming, with a focus on front-end.
 
-#### - Studying for a Bachelor's Degree in Information Systems (Sistemas de Informação) 2/8 IFBAIANO.
+#### - Studying for a Bachelor's Degree in Information Systems (Sistemas de Informação) 3/8 IFBAIANO.
 
 ---
 
