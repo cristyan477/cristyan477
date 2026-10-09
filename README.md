@@ -1,6 +1,6 @@
 ## Welcome! 🗿
 
-### My name is Cristyan Alves de Oliveira Almeida, and here's my journey into the world of programming, with a focus on front-end.
+### My name is Cristyan Alves de Oliveira Almeida, and here's my journey into the world of programming full-stack.
 
 #### - Studying for a Bachelor's Degree in Information Systems (Sistemas de Informação) 5/8 IFBAIANO.
 
